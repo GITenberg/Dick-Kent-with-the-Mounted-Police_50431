@@ -1,10 +1,16 @@
 _repo: Dick-Kent-with-the-Mounted-Police_50431
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50431-h/images/cover.jpg
 creator:
   author:
     agent_name: Richards, Milton
     gutenberg_agent_id: '45787'
     url: http://www.gutenberg.org/2009/agents/45787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50431#Dick-Kent-with-the-Mounted-Police
 gutenberg_issued: '2015-11-11'
 gutenberg_type: Text
 identifiers:
